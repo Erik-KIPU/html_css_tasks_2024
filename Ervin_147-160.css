@@ -1,0 +1,56 @@
+div {
+	display: block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
+p {
+    display: inline;
+}
+.elem {
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+    display: inline-block;
+}
+.parent {
+    width: 300px;
+    height: 450px;
+	border: 1px solid red;
+}
+.child {
+    height: 100px;
+	width: 200px;
+	border: 1px solid green;
+    margin: 10px auto;
+}
+.bern {
+    height: 70px;
+	width: 140px;
+	border: 1px solid green;
+    margin: 10px auto;
+}
+.gren {
+	height: 40px;
+	width: 80px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+h1 {
+    display: inline;
+}
+#parent {
+    text-align: center;
+	padding: 20px 0;
+    width: 200px;
+    height: 40px;
+	border: 1px solid red;
+}
+.paren {
+    text-align: right;
+	padding: 50px 20px;
+	border: 1px solid red;
+}
+.child {
+    border: 1px solid green;
+}

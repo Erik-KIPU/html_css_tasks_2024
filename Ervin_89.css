@@ -1,0 +1,9 @@
+li:not(.elem) {
+	color: red;
+}
+.rrr li:not(:first-child) {
+	color: green;
+}
+.mmm li:not(:last-child,:first-child) {
+	color: green;
+}

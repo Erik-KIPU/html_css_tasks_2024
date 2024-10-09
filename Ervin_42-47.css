@@ -1,0 +1,17 @@
+p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+p {
+	text-decoration: underline;
+}
+h1 {
+	text-decoration: overline;
+}
+h2 {
+	text-decoration: line-through;
+}
+a {
+	text-decoration: none;
+}

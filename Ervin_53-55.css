@@ -1,0 +1,21 @@
+ul i {
+    color: red;
+}
+p i {
+    color: green;
+}
+p b i {
+    color: red;
+}
+li > b {
+    color: red;
+}
+.odd {
+    color: red;
+}
+.eve {
+    color: green; 
+}
+.eee {
+    color: red;
+}

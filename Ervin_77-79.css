@@ -1,0 +1,12 @@
+#elem + li {
+    color: green;
+}
+li.elem + li {
+    color: red;
+}
+#elem ~ li {
+    color: bisque;
+}
+main > div > * {
+    color: yellow;
+}

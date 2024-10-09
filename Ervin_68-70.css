@@ -1,0 +1,51 @@
+.bbb.zzz {
+	color: red;
+}
+h2.bbb.zzz {
+	color: green;
+}
+#elem.bbb {
+	color: yellow;
+}
+#elem.bbb.zzz {
+	color: pink;
+}
+h2#elem.bbb {
+	color: orange;
+}
+h2.zzz {
+	color: brown;
+}
+h2 .zzz {
+	color: red;
+}
+.bbb .zzz {
+	color: green;
+}
+.bbb.zzz.xxx {
+	color: rgb(135,124,67);
+}
+.bbb .zzz.xxx {
+	color: blue;
+}
+.bbb.zzz .xxx {
+	color: red;
+}
+.bbb .zzz .xxx {
+	color: red;
+}
+#elem .bbb {
+	color: red;
+}
+#block h1, #block h2 {
+	text-align: center;
+}
+#block1 h1, #block1 h2 {
+	text-align: center;
+}
+#block1 h1 {
+	font-size: 30px;
+}
+#block1 h2 {
+	font-size: 20px;
+}

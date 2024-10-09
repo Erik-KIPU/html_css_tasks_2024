@@ -1,0 +1,10 @@
+h1 {
+    font: 16px/20px "Times new Roman";
+}
+h2 {
+    font: bold 40px/300px Arial;
+    color: red;
+}
+p {
+    font: bold italic 40px/60px/50px Arial;
+}

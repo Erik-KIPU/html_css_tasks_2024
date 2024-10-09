@@ -1,0 +1,20 @@
+#block h1, #block h2, #block h3 {
+	text-align: center;
+}
+ #block h2 {
+	color: blue;
+}
+ #block h3 {
+	font-size: 16px;
+	color: red;
+}
+#block1 h1.eee, #block1 h2.zzz {
+	text-align: center;
+	font-size: 30px;
+}
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+.eee h2.zzz, .xxx {
+	text-align: center;
+}

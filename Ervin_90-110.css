@@ -1,0 +1,119 @@
+#elem {
+	width: 200px;
+	height: 200px;
+	color: blue;
+	background-color: blue;
+}
+h2 {
+    text-align: center;
+    width: 250px;
+    height: 200px;
+    color: white;
+    background-color: greenyellow;
+}
+#ele {
+	border-width: 4px;
+	border-style: solid;
+	border-color: blue;
+	width: 200px;
+	height: 150px;
+}
+#elem1 {
+	border-width: 3px;
+	border-style: dotted;
+	border-color: red;
+	width: 250px;
+	height: 150px;
+}
+#elem2 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 250px;
+	height: 150px;
+}
+#elem3 {
+	border-width: 7px;
+	border-style: double;
+	border-color: blue;
+	width: 250px;
+	height: 150px;
+}
+#elem4 {
+	border: 1px solid red;
+	width: 250px;
+	height: 150px;
+}
+#elem5 {
+	border: 2px dotted blue;
+	width: 250px;
+	height: 150px;
+}
+#elem6 {
+	border: 3px dashed green;
+	width: 250px;
+	height: 150px;
+}
+#elem7 {
+	border: 5px double orange;
+	width: 250px;
+	height: 150px;
+}
+#elem8 {
+	width: 250px;
+	height: 150px;
+	border-left: 3px solid orange;
+	border-right: 3px solid green;
+    border-top: 3px solid blue;
+    border-bottom: 3px solid red;
+}
+#elem9 {
+	width: 250px;
+	height: 150px;
+	border-left: 3px solid red;
+	border-right: 2px dotted green;
+    border-top: 1px solid blue;
+    border-bottom: 1px solid blue;
+}
+#elem10 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 20px;
+}
+#elem11 {
+	border-radius: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: green;
+}
+#elem12 {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	border: 1px solid green;
+}
+#elem13 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 20px 40px 50px;
+}
+#elem14 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 40px;
+}
+#elem15 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 20px 30px;
+}
+#elem16 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 67%;
+}

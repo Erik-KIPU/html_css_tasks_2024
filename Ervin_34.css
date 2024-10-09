@@ -1,0 +1,20 @@
+h1 {
+    text-align: right;
+}
+table {
+    width: 500px;
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: center;
+}
+p {
+    width: 300 px;
+    text-align: justify;
+}
+h2 {
+    width: 300px;
+    text-align: center;
+}

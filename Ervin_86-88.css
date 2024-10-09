@@ -1,0 +1,74 @@
+a.zzz {
+	color: red;
+}
+a.zzz:hover {
+	text-decoration: none;
+}
+#block a.zzz {
+	color: green;
+}
+#block a.zzz:hover {
+	text-decoration: none;
+}
+.block a.zzz {
+	color: yellow;
+}
+.block a.zzz:hover {
+	text-decoration: none;
+}
+.zzz li:first-child {
+	color: red;
+}
+.bbb li:last-child {
+	color: red;
+}
+.eee li:first-child {
+	color: red;
+}
+.eee li:last-child {
+	color: green;
+}
+.mmm li:nth-child(3) {
+	color: red;
+}
+.sss li:nth-child(3n) {
+	color: red;
+}
+.hhh li:nth-child(even) {
+	color: red;
+}
+.hhh li:nth-child(odd) {
+	color: green;
+}
+.aaa li:nth-last-child(2) {
+	color: red;
+}
+li:only-child {
+	color: red;
+}
+ul {
+	margin-bottom: 10px;
+}
+p:first-of-type {
+	color: red;
+}
+h2:last-of-type {
+	color: red;
+}
+h2:nth-of-type(2) {
+	color: red;
+}
+h2:nth-of-type(even) {
+	color: red;
+}
+h2:nth-of-type(odd) {
+	color: red;
+}
+h1{
+	border: 1px dashed black;
+	padding: 15px;
+	margin-bottom: 10px;
+}
+h2:only-of-type {
+	color: red;
+}

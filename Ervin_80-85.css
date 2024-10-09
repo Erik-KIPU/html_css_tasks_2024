@@ -1,0 +1,18 @@
+a {
+	color: blue;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:hover {
+    color: red;
+}
+#test a {
+	color: red;
+}
+#test a:hover {
+	text-decoration: none;
+}

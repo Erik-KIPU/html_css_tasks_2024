@@ -1,0 +1,53 @@
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.very {
+    width: 100px;
+}
+.bery {
+    font-size: 40px;
+}
+.gery {
+    color: pink;
+}
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
+#block {
+	color: red;
+	font-family: Arial;
+}
+.text {
+	font-size: 30px;
+    color: yellow;
+}
+#elem4 h2 {
+    color: goldenrod;
+}
+#elem5 .text2 {
+    color: pink;
+}
+#elem6 .text3 {
+    color: red;
+}
+#elem7 .text4 {
+    color: blue;
+}
+.mmm.fff.rrr {
+    font-size: 70px;
+}

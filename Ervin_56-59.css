@@ -1,0 +1,47 @@
+.xxx {
+    font-size: 30px;
+}
+.data1 {
+    color: red;
+}
+.data2 {
+    color: green;
+}
+.data3 {
+    color: blue;
+}
+.data4 {
+    color: red;
+}
+.data5 {
+    color: green;
+}
+.eee, .rrr {
+    line-height: 1.5;
+	font-family: Arial;
+}
+.rrr {
+	font-size: 20px;
+}
+.eee {
+	font-size: 30px;
+}
+.bbb, .zzz, .ggg {
+    text-align: center;
+	font-family: Arial;
+}
+.bbb {
+	font-size: 20px;
+}
+.zzz {
+	font-size: 30px;
+}
+.ggg {
+	font-size: 35px;
+}
+h2.header {
+    font-size: 40px;
+}
+h3.header {
+    font-size: 30px;
+}

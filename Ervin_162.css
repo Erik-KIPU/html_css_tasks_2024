@@ -1,0 +1,26 @@
+.parent {
+    padding: 10px 0 10px 20px; 
+    border: 1px solid red;
+  }
+  
+  .child {
+    display: inline-block;
+    text-align: right;
+    vertical-align: top;
+    padding: 10px;
+    border: 1px solid green;
+    margin-right: 20px; 
+  }
+  .parent1 {
+    padding: 10px 0;
+    border: 1px solid red;
+  }
+  
+  .child1 {
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    padding: 10px;
+    border: 1px solid green;
+  }
+  

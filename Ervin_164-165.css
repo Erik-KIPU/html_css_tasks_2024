@@ -1,0 +1,20 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 300px; /* Примерная ширина контейнера */
+    height: 200px; /* Примерная высота контейнера */
+    border: 1px solid red; /* Красная рамка вокруг контейнера */
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap; /* Разрешаем перенос элементов на новую строку */
+    width: 100%;
+    border-bottom: 1px solid green; /* Зеленая линия снизу ряда */
+  }
+  
+  .column {
+    width: 20%; /* Ширина каждого столбца */
+    padding: 10px;
+    box-sizing: border-box; /* Чтобы паддинг не влиял на ширину элемента */
+  }

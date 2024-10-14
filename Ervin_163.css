@@ -1,7 +1,7 @@
 .container {
     display: flex;
     flex-direction: column;
-    width: 300px; /* Примерная ширина контейнера 123*/
+    width: 300px; /* Примерная ширина контейнера*/
     height: 200px; /* Примерная высота контейнера */
     border: 1px solid red; /* Красная рамка вокруг контейнера */
   }

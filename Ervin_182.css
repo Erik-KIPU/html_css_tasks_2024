@@ -1,0 +1,20 @@
+#elem1{
+    position: fixed;
+    top:0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    background-color:#C4CD14;
+    border-bottom: 1px solid #A3AA11;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    font-size: 21px;
+}
+
+#elem2{
+    border: 1px solid #C4CD14;
+    width: 600px;
+    margin: 60px auto;
+    padding: 20px;
+}

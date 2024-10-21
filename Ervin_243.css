@@ -1,0 +1,81 @@
+.tittle {
+    h1 {
+        text-align: center;
+        font-family:'Lucida Sans Unicode';
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+body, p, h1, h2, ul, ol {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial;
+}
+
+.wrapper242 {
+    margin-bottom: 30px;
+}
+
+.center242 {
+    width: 840px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.wrapper242 h2 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 27px;
+}
+.wrapper242 p, .wrapper li {
+    margin-bottom: 10px;
+    text-align: justify;
+    font-size: 16px;
+}
+.wrapper242 li {
+    list-style-position: inside;
+}
+
+#header242 {
+    background: #008040;
+    color: white;
+}
+#header242 h1 {
+    font-size: 35px;
+    margin-bottom: 7px;
+    text-align: center;
+}
+#header242 p {
+    font-size: 21px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#services242 {
+    background-color: white;
+}
+
+#contacts242 {
+    background-color: #C60304;
+    color: white;
+}
+#contacts242 p {
+    text-align: center;
+}
+
+#company242 {
+    background-color: white;
+}
+
+#footer242 {
+    padding-top: 100px;
+    background: #FF8040;
+    color: white;
+    text-align: center;
+    font-size: 13px;
+}

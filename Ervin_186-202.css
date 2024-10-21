@@ -1,0 +1,112 @@
+.tittle {
+    h1 {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium';
+    }
+}
+
+/*task186*/
+.left-float {
+    float: left;
+    margin-right: 10px;
+}
+.right-float {
+    float: right;
+    margin-left: 10x;
+}
+
+.task_186{
+p {
+    text-align: justify;
+}
+}
+
+/*task#191*/
+
+.task_191 {
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#img1 {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+}
+
+#img2 {
+    float: right;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+/*task#200*/
+
+#parent200 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child200 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+/*task_201*/
+#parent201 {
+    width: 800px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: justify;
+}
+
+#child201_1, #child201_2 {
+    float: right;
+    width: 130px;
+    height: 70px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+    text-align: center;
+}
+
+/*task_202*/
+
+#parent1, #parent2 {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#child1 {
+    float: left;
+}
+
+#child2 {
+    float: right;
+}
+
+#child1, #child2{
+    width: 100px;
+    height: 50px;
+    margin: 0 10px;
+    text-align: center;
+    border: 1px solid green;
+}
+
+.clearfix {
+    clear: both;
+}
